@@ -1,1 +1,0 @@
-console.log("Crypto Airdrop Bot is active!");
